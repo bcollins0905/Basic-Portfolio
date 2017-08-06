@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+body {
+	font-size: 20px
+}
+
+section {
+	padding: 20px;
+	margin-bottom: 20px;
+}
+
+#name {
+	background-color: #4aaaa5;
+	color: white;
+	width: 33.3%;
+	float: left;
+
+}
+
+#blank {
+	background-color: #ffffff;
+	width: 33.3%;
+	float: left;
+	
+}
+
+#links {
+	background-color: #ffffff;
+	color: gray;
+	width: 33.3%;
+	float: left;
+
+}
+	.button {
+	    background-color: #ffffff;
+	    border: none;
+	    color: gray;
+	    padding: 5px 20px;
+	    text-align: center;
+	    text-decoration: none;
+	    display: inline-block;
+	    font-size: 18px;
+	    margin: 4px 2px;
+	    cursor: pointer;
+}
